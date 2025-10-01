@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
           <div className="lg:col-span-2">
             <div className="flex items-center gap-4 mb-6">
-              <img src="/SzegfusorLogo.png" alt="Logo" className="w-20 h-20" />
+              <img src="/logo.svg" alt="Logo" className="w-20 h-20" />
               <h3 className="text-2xl font-bold text-amber-50">
                 Szegfűsor<span className="text-amber-400"></span>
               </h3>

@@ -27,7 +27,7 @@ function ScrollAnimation() {
     >
       {/* First section - full screen */}
       <div className="h-screen flex flex-col w-full top-0 z-30">
-        <h1 className="text-5xl text-transparent bg-clip-text bg-gradient-to-r from-purple-700 via-blue-600 to-purple-700 z-40 m-10 relative">
+        <h1 className="text-5xl text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-blue-500 to-purple-4 00 z-40 m-10 relative">
           Szekfusor IKTV
         </h1>
         <p className="text-xl text-purple-200 z-40 ml-10 relative opacity-75 w-1/2 text-justify">
@@ -65,7 +65,7 @@ function ScrollAnimation() {
           x,
           y,
           borderRadius,
-          backgroundImage: "url('/placeholderMain.webp')",
+          backgroundImage: "url('/mainImg.jpg')",
         }}
       />
 
