@@ -9,9 +9,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
           <div className="lg:col-span-2">
             <div className="flex items-center gap-4 mb-6">
-              <img src="/img/logo.png" alt="Logo" className="w-12 h-12" />
+              <img src="/SzegfusorLogo.png" alt="Logo" className="w-20 h-20" />
               <h3 className="text-2xl font-bold text-amber-50">
-                Nexus<span className="text-amber-400">.</span>
+                Szegfűsor<span className="text-amber-400"></span>
               </h3>
             </div>
             <p className="text-amber-100 opacity-75 text-lg leading-relaxed max-w-md">
@@ -22,12 +22,12 @@ const Footer = () => {
 
           <div>
             <h4 className="text-xl font-semibold mb-6 text-amber-400">
-              Connect
+              Csapatagok
             </h4>
             <div className="space-y-4 text-amber-100 opacity-75 text-lg">
-              <p>hello@nexus.example</p>
-              <p>+1 (555) 123-4567</p>
-              <p>123 Innovation Blvd</p>
+              <p>Menyhért Bnece (Developer)</p>
+              <p>Sőrés Máté</p>
+              <p>Belényesi István</p>
             </div>
           </div>
         </div>
@@ -35,11 +35,11 @@ const Footer = () => {
         <div className="pt-8 border-t border-amber-50/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <p className="text-amber-100 opacity-60 text-lg">
-              © {currentYear} Nexus. All rights reserved.
+              © {currentYear} Szegfűsor. All rights reserved.
             </p>
 
             <a
-              href="https://github.com"
+              href="https://github.com/Benc8/szegfusorIKTV"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 bg-amber-50/10 rounded-full flex items-center justify-center text-amber-100 hover:bg-amber-400 hover:text-blue-900 transition-all duration-300"
