@@ -26,7 +26,7 @@ function ScrollAnimation() {
       className="h-[200vh] w-screen overflow-x-hidden relative"
     >
       {/* First section - full screen */}
-      <div className="h-screen flex flex-col w-full sticky top-0 z-30">
+      <div className="h-screen flex flex-col w-full top-0 z-30">
         <h1 className="text-5xl text-transparent bg-clip-text bg-gradient-to-r from-purple-700 via-blue-600 to-purple-700 z-40 m-10 relative">
           Szekfusor IKTV
         </h1>
