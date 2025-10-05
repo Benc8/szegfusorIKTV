@@ -22,7 +22,7 @@ const Footer = () => {
 
           <div>
             <h4 className="text-xl font-semibold mb-6 text-amber-400">
-              Csapatagok
+              Csapattagok
             </h4>
             <div className="space-y-4 text-amber-100 opacity-75 text-lg">
               <p>Menyhért Bnece (Developer)</p>

@@ -31,8 +31,8 @@ function ScrollAnimation() {
           Szekfusor IKTV
         </h1>
         <p className="text-xl text-purple-200 z-40 ml-10 relative opacity-75 w-1/2 text-justify">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus
-          ad doloribus eveniet explicabo ipsum minus nulla saepe sapiente sed.
+          A jövő high tech intézménye intelligens rendszerekkel, fenntartható megoldásokkal és digitális infrastruktúrával működik.
+          Egy hely, ahol az innováció, a technológia és az emberközpontúság találkozik.
         </p>
       </div>
 
@@ -46,13 +46,13 @@ function ScrollAnimation() {
         }}
       >
         <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-cyan-400 text-5xl mb-6">
-          Discover More
+          Épület és környezet
         </h1>
         <p className="text-xl text-purple-200 opacity-75 text-justify">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus
-          ad doloribus eveniet explicabo ipsum minus nulla saepe sapiente sed.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-          voluptatum.
+          Intelligens rendszerek gondoskodnak a világításról, a hűtésről és a fűtésről.
+          Biometrikus beléptetés növeli a biztonságot. A fenntarthatóságot megújuló energiaforrások,
+          esővíz-újrahasznosítás és okos öntözés segíti. Az épület modern kialakítását tágas terek,
+          üvegfelületek és rugalmasan alakítható bútorok jellemzik.
         </p>
       </motion.div>
 
